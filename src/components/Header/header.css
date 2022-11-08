@@ -1,0 +1,8 @@
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(28, 8, 108);
+    height: 60px;
+    
+}

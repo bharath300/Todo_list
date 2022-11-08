@@ -1,0 +1,15 @@
+.imgblock{
+    height:300px;
+    width:300px;
+}
+.Cover{
+    border: 5px solid rgb(0, 0, 0);
+    /* background-color: rgb(163, 220, 220); */
+    background-color: rgb(46, 9, 146);
+    color: rgb(222, 230, 238);
+    border-radius: 20px;
+    padding-bottom: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
